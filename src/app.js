@@ -18,21 +18,7 @@ const PLAYERS = [
     "Thor",
     "Slayer",
     "Vader",
-    "Slingo",
-    "Antwoman",
-    "Mask",
-    "Tiger",
-    "Cap Shield",
-    "Catwoman",
-    "Fish",
-    "Hulk",
-    "Deadpool",
-    "Black Panther",
-    "Doctor Strange",
-    "Thor",
-    "Manhunter",
-    "Yellowjacket",
-    "Thanos",
+    "Slingo"
 ];
 
 // initialize players with image and strength
